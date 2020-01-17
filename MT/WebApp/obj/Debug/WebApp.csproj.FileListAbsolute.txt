@@ -57,3 +57,10 @@ C:\Users\gyempara\Source\Repos\MTapp\MT\WebApp\bin\System.Web.Http.WebHost.xml
 C:\Users\gyempara\Source\Repos\MTapp\MT\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
 C:\Users\gyempara\Source\Repos\MTapp\MT\WebApp\obj\Debug\WebApp.dll
 C:\Users\gyempara\Source\Repos\MTapp\MT\WebApp\obj\Debug\WebApp.pdb
+C:\Users\gyempara\Source\Repos\MTapp\MT\WebApp\bin\EntityFramework.dll
+C:\Users\gyempara\Source\Repos\MTapp\MT\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\gyempara\Source\Repos\MTapp\MT\WebApp\bin\EntityFramework.xml
+C:\Users\gyempara\Source\Repos\MTapp\MT\WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\gyempara\Source\Repos\MTapp\MT\WebApp\obj\Debug\WebApp.Migrations.InitialCreate.resources
+C:\Users\gyempara\Source\Repos\MTapp\MT\WebApp\obj\Debug\WebApp.csproj.GenerateResource.Cache
+C:\Users\gyempara\Source\Repos\MTapp\MT\WebApp\obj\Debug\WebApp.Migrations.addspeakersandsessions.resources
