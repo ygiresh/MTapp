@@ -22,7 +22,7 @@ namespace WebApp
 
             using (var context = new MultitTenantContext())
             {
-                if (!context.Speakers.Any())
+                if (context.Speakers.Any())
                 {
                     context.Speakers.Add(new Speaker()
                     {
